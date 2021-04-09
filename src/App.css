@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(42, 44, 44);
+    color: rgb(224, 224, 224);
+    font-family: "Arial Narrow", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  
+}
+
+#buscador {
+    padding-top: 2px;
+    padding-right: 25px;
+}
+
+
+#titulo-inicio {
+    padding-left: 38%;
+    
+}
+#temporadas{
+    padding-left: 25%;
+}
+
+#inicio {
+    background-color: rgb(51, 52, 53);
+    border-radius: 25px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    padding-bottom: 1%;
+    padding-top: 2%;
+    padding-left:1%;
+    
+}
+
+.BB {
+    padding-bottom: 3%;
+    padding-top: 3%;
+    margin-left: 0.8;
+    margin-right: 0.8%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 5%;
+ 
+}
+
+#btn-episode {
+    width: 200px;
+    border-radius: 5px;
+    padding-top: 1px;
+    scroll-padding-bottom: 1px;
+  
+}
+
+#episodios {
+    margin-left: 25%;
+}
+
+#imagen {
+    margin-left: 25%;
+    height: 30%;
+    width: 25%;
+}
+
+#button-back {
+    margin-top: 4px;
+    margin-left: 15px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
